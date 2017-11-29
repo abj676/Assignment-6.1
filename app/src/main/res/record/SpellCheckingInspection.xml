@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/c/testinganddeployment/MainActivity.java</file>
+    <line>19</line>
+    <module>app</module>
+    <package>c.testinganddeployment</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/c/testinganddeployment/MainActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'initilisation'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/c/testinganddeployment/MainActivity.java</file>
+    <line>28</line>
+    <module>app</module>
+    <package>c.testinganddeployment</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/c/testinganddeployment/MainActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'emailstr'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/c/testinganddeployment/MainActivity.java</file>
+    <line>28</line>
+    <module>app</module>
+    <package>c.testinganddeployment</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/c/testinganddeployment/MainActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'passwordstr'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/c/testinganddeployment/MainActivity.java</file>
+    <line>33</line>
+    <module>app</module>
+    <package>c.testinganddeployment</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/c/testinganddeployment/MainActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Abhishek'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/c/testinganddeployment/MainActivity.java</file>
+    <line>40</line>
+    <module>app</module>
+    <package>c.testinganddeployment</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/c/testinganddeployment/MainActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'faliour'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/c/testinganddeployment/MainActivity.java</file>
+    <line>41</line>
+    <module>app</module>
+    <package>c.testinganddeployment</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/c/testinganddeployment/MainActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Failour'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/c/testinganddeployment/ExampleInstrumentedTest.java</file>
+    <line>24</line>
+    <module>app</module>
+    <package>c.testinganddeployment</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/c/testinganddeployment/ExampleInstrumentedTest.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'testinganddeployment'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml</file>
+    <line>3</line>
+    <module>app</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'testinganddeployment'</description>
+  </problem>
+</problems>
+
